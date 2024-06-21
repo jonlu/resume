@@ -19,7 +19,7 @@ docker run --rm -i -v "$PWD":/data latex pdflatex jonathan_lu_resume.tex
 
 ### Preview
 
-![Resume Screenshot](/resume_preview.png)
+![Resume Screenshot](/jonathan_lu_resume.png)
 
 ### License
 
